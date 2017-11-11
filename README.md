@@ -3,6 +3,7 @@ Quick toy to play with Dijkstra Maps for Roguelikes
 
 ## Based on the Dijkstra articles on Rogue Basin
 http://www.roguebasin.com/index.php?title=The_Incredible_Power_of_Dijkstra_Maps
+
 http://www.roguebasin.com/index.php?title=Dijkstra
 
 To use:
